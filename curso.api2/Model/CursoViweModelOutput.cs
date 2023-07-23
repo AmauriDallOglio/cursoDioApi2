@@ -1,0 +1,9 @@
+﻿namespace curso.api2.Model
+{
+    public class CursoViweModelOutput
+    {
+        public string Nome { get; set; }
+        public string Descricao { get; set; }
+        public string Login { get; set; }
+    }
+}
